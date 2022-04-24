@@ -2,7 +2,7 @@
 #### Python interface to preform Spectral Clustering Algorithm, using C modules in order to obtain accelerated performance <br />
 **This is a little project using Cython I wanted to get an experiance with** <br />
 **(More about the ['Spectral Clustering Algorithm'](https://en.wikipedia.org/wiki/Spectral_clustering))** <br />
-**(More about finding eigenvalues using [Jacobi's Algorithm](https://en.wikipedia.org/wiki/Jacobi_eigenvalue_algorithm))** <br />
+**(More about finding eigenvalues using ['Jacobi's Algorithm'](https://en.wikipedia.org/wiki/Jacobi_eigenvalue_algorithm))** <br />
 
 ## Code Files:
 
