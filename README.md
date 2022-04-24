@@ -1,6 +1,5 @@
 # Embedded Spectral Clustering Algorithm
-Python interface to preform Spectral Clustering Algorithm, using C modules in order to classify fast
-
+#### Python interface to preform Spectral Clustering Algorithm, using C modules in order to classify fast
 #### This is a little project using Cython I wanted to get an experiance with
 #### (More about [the 'Spectral Clustering Algorithm'](https://en.wikipedia.org/wiki/Spectral_clustering))
 #### (More about [finding eigenvalues using Jacobi's Algorithm](https://en.wikipedia.org/wiki/Jacobi_eigenvalue_algorithm))
