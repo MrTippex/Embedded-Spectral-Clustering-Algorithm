@@ -31,6 +31,7 @@ An example for required data to classify
 ## The Output:
 **First row** - represents the initial clusters that has been selected <br />
 **Next paragrapth** - represents the final clusters, using convergence = 1.0*10^-5 <br />
+<br />
 **$ python3 spkmeans.py 0 spk ./Data_to_classify.txt <br />**
 44,65,87,84,90,58 <br />
 0.0000,0.0000,0.0822,0.0000,0.0000,0.0000 <br />
